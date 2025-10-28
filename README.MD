@@ -17,7 +17,7 @@ Este projeto simula uma rede de transporte público utilizando grafos em Python.
 
 ## 🖼️ Visualização do Grafo
 
-O script `grafo_visual.py` gera uma imagem chamada `rede_transporte_grafo.png` com:
+O script `grafoImagem.py` gera uma imagem chamada `rede_transporte_grafo.png` com:
 
 - Estações como nós
 - Conexões como setas direcionais
@@ -41,7 +41,16 @@ py -m pip install matplotlib networkx
  py main.py
  ```
 
+## 🛠 Tecnologias Utilizadas
 
- 
+- [VS Code](https://code.visualstudio.com/) | Ambiente de desenvolvimento integrado para escrever, ler e executar código do projeto com mais eficiência.
+- [Git Bash](https://git-scm.com/downloads) | Terminal otimizado para controle de versionamento com Git
+
+
+---
+
+<div align="center"> Desenvolvido por Eduardo </div> 
+
+
 
 
